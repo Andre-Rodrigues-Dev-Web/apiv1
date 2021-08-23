@@ -1,1 +1,3772 @@
-{"dataHoraInicial":"2021-07-26T10:00:00","dataHoraFinal":"2021-07-26T15:30:00","lista":[{"data":"2021-07-26T10:00:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T10:30:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T11:00:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T11:30:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T12:00:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"5","arquivosErro":"5","ocorrencias":"5","ocorrenciasErro":"5"},{"data":"2021-07-26T12:30:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T13:00:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T13:30:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T14:00:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T14:30:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T15:00:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T15:30:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":null,"arquivos":"1","arquivosErro":"1","ocorrencias":"1","ocorrenciasErro":"1"},{"data":"2021-07-26T11:30:00","hora":null,"transportadora":"ASAP LOG LTDA ","tipo":"Erro","arquivos":"3","arquivosErro":"3","ocorrencias":"3","ocorrenciasErro":"3"}]}
+[
+    {
+      "data": "2021-08-22T03:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T04:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 2,
+      "arquivosErro": 2,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 2
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 4,
+      "arquivosErro": 4,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 4
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 6,
+      "arquivosErro": 6,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 6
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": null,
+      "arquivos": 13,
+      "arquivosErro": 13,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 13
+    },
+    {
+      "data": "2021-08-22T07:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": "OSE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": "OSE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T00:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 18,
+      "arquivosErro": 0,
+      "ocorrencias": 18,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T04:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T04:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 10,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 8,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 8,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 13,
+      "arquivosErro": 0,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 20,
+      "arquivosErro": 0,
+      "ocorrencias": 20,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 33,
+      "arquivosErro": 0,
+      "ocorrencias": 33,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 57,
+      "arquivosErro": 0,
+      "ocorrencias": 57,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 22,
+      "arquivosErro": 0,
+      "ocorrencias": 22,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 14,
+      "arquivosErro": 0,
+      "ocorrencias": 14,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 24,
+      "arquivosErro": 0,
+      "ocorrencias": 24,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 17,
+      "arquivosErro": 0,
+      "ocorrencias": 17,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 14,
+      "arquivosErro": 0,
+      "ocorrencias": 14,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 29,
+      "arquivosErro": 0,
+      "ocorrencias": 29,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 8,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 9,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 8,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 5,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 9,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 7,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 43,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 22,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 19,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 43,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 43,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "DIALOGO                                 ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 14,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "EMPRESA BRAS DE CORREIOS E TELEGR       ",
+      "tipo": "PVE",
+      "arquivos": 13,
+      "arquivosErro": 0,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "EMPRESA BRAS DE CORREIOS E TELEGR       ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "EMPRESA BRAS DE CORREIOS E TELEGR       ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 7,
+      "arquivosErro": 0,
+      "ocorrencias": 21,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 18,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 5,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 284,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA                                ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 7,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 16,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 56,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 16,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "FAVORITA TRANSPORTES LTDE               ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 277,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 9,
+      "arquivosErro": 0,
+      "ocorrencias": 40,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 108,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 14,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 5,
+      "arquivosErro": 0,
+      "ocorrencias": 34,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 60,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 9,
+      "arquivosErro": 0,
+      "ocorrencias": 36,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 26,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 20,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 14,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 17,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 145,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 19,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 70,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 105,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 36,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 34,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 16,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 15,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 18,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 26,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 113,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "GFL                                     ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 525,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 112,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 66,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 162,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 45,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 15,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 17,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "HOERDE FARO E FRANCESCHI TRANSPORTE E LO",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "RODOWEB                                 ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSP LOTACAO LOG LTDA    ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSP LOTACAO LOG LTDA    ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSP LOTACAO LOG LTDA    ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSP LOTACAO LOG LTDA    ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSP LOTACAO LOG LTDA    ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSP LOTACAO LOG LTDA    ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 5,
+      "arquivosErro": 0,
+      "ocorrencias": 42,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 56,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 32,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 15,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 11,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 17,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 16,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 20,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 20,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 25,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 11,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 21,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 14,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 11,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 16,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 65,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 19,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 274,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 33,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 24,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 198,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 300,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 14,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 44,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 11,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 134,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 144,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 18,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T13:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 25,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 22,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 15,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 28,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 18,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 6,
+      "arquivosErro": 0,
+      "ocorrencias": 16,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T16:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T17:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T18:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 23,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 25,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T19:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 7,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 12,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 24,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 8,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T20:30:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 9,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T21:00:00",
+      "hora": null,
+      "transportadora": "VVLOG                                   ",
+      "tipo": "PVE",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 28,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T06:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T07:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T08:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T10:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T15:30:00",
+      "hora": null,
+      "transportadora": "ASAP LOG LTDA                           ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 1,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 1
+    },
+    {
+      "data": "2021-08-22T08:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "STD",
+      "arquivos": 4,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:30:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T10:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "STD",
+      "arquivos": 8,
+      "arquivosErro": 0,
+      "ocorrencias": 48,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "STD",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 5,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "FcLog                                   ",
+      "tipo": "STD",
+      "arquivos": 5,
+      "arquivosErro": 0,
+      "ocorrencias": 10,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "STD",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "STD",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 4,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRANSPORTE LOTACAO E LOGIST",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "STD",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 6,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "TMA NORDESTE TRASNPORTE LOTACAO E LOGIST",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T03:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "STD",
+      "arquivos": 3,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T09:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "STD",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "STD",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 13,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "STD",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 3,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T11:00:00",
+      "hora": null,
+      "transportadora": "VENKON                                  ",
+      "tipo": "STD",
+      "arquivos": 2,
+      "arquivosErro": 0,
+      "ocorrencias": 2,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "VENKON",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T12:00:00",
+      "hora": null,
+      "transportadora": "VENKON",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    },
+    {
+      "data": "2021-08-22T14:00:00",
+      "hora": null,
+      "transportadora": "VENKON",
+      "tipo": "STD",
+      "arquivos": 1,
+      "arquivosErro": 0,
+      "ocorrencias": 1,
+      "ocorrenciasErro": 0
+    }
+  ]
